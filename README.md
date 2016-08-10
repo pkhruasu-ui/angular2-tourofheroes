@@ -1,3 +1,3 @@
 # angular2-tourofheroes
 
-## Step-5 Services
+## Step-6 Routing
